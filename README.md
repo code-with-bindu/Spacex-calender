@@ -10,7 +10,7 @@ Notifly is a Python application that automatically adds upcoming rocket launches
 
 ## GUI Overview
 
-Upon first startup of `main_gui.py`, the GUI should look like this:
+Upon first startup of `main.py`, the GUI should look like this:
 
 ![Notifly GUI](NotiflyGUI.png)
 
@@ -41,4 +41,4 @@ Upon first startup of `main_gui.py`, the GUI should look like this:
 4. **Run the Application**
    Execute the following command to start the GUI:
    ```bash
-   python3 main_gui.py
+   python3 main.py
