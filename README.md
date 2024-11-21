@@ -8,6 +8,14 @@ Notifly is a Python application that automatically adds upcoming rocket launches
 
 - Python 3.0 or higher
 
+## GUI Overview
+
+Upon first startup of `main_gui.py`, the GUI should look like this:
+
+![Notifly GUI](NotiflyGUI.png)
+
+## Functionality
+
 ## Setup Guide
 
 1. **Clone the Repository**
