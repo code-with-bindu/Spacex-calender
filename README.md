@@ -18,6 +18,7 @@ Upon first startup of `main.py`, the GUI should look like this:
 
 ## Setup Guide
 
+
 1. **Clone the Repository**
    Clone this repository to your local machine.
 
